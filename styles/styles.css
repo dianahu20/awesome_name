@@ -1,0 +1,32 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+.table-row { color: #fff; background-color: #555; }
+
+.jumbotron { width: 50%; text-align: center; margin-top: 10%; background-color: rgba(245,255,255,0.5);}
+
+.jumbotron_2 { text-align: center; }
+
+#logo {colour: #000;}
+
+.service-box { text-align: center }
+
+footer {text-align: center;}
+
+h1 { font-family: "TW Cen MT"; font-size: 20px;}
+
+*/p { color: #434;font-size:20px; text-shadow: #454; font-family: "TW Cen MT";}
+*/
+#special { color: #0f7; }
+#welcome { 
+		background-image: url(../images/beach_scene.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+			}
+ul {list-style-type: none;}
+li { display: inline;}
+html, body {height:100%;}
+.full-height {
+		height: 100%;
+}
+.nav a {color:#fff; font-weight:bold; font-size: 16px; text-shadow: 1px 1px #000;}
